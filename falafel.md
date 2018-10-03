@@ -27,3 +27,6 @@ Mehl: 7
 - Joghurtsoße
 - Hummus
 - Pita
+
+## via
+<https://www.thekitchn.com/how-to-make-baked-falafel-in-the-oven-cooking-lessons-from-the-kitchn-219193>

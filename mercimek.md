@@ -31,3 +31,6 @@ Summe: 13
 ## Dependencies
 - Pitabrot
 - Chiliflocken / Sriracha
+
+## Via
+<https://www.thespruceeats.com/turkish-red-lentil-soup-suzme-mercimek-corbasi-recipe-3274346>
