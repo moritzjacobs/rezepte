@@ -16,8 +16,8 @@
 - ...
 
 ## SP
-200g Streukäse (Milbona "Der Leichte") 17
-2 SKYRELLA 6
+- 200g Streukäse (Milbona "Der Leichte") 17
+- 2 SKYRELLA 6
 
 == 24
 
