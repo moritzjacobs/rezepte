@@ -5,3 +5,5 @@
 ## [Mercimek Çorbası](./mercimek.md)
 ## [WW Pizza](./ww-pizza.md)
 ## [Wirsingpfanne mit Petersilienwurzelkartoffelpürree](./wirsingpfanne.md)
+## [Blumenkohlsuppe](./blumenkohlsuppe.md)
+## [Falafel](./falafel.md)
